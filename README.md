@@ -18,7 +18,7 @@ pip install numpy
 
 Running the test for Face login
 
-1. Create the same folders while testing or download entire project
+1. git clone this page and unzip the zip files
 2. Run Readface.py to take some images of user for login, It asks for Name and Id in console
 Note: *if didnt work change profile.csv manual and move all images to the TrainingImages*
 3. Run Train.py, this will train all images taken and put in TrainData Folder
